@@ -1,0 +1,19 @@
+{
+    "name": "alex/alex-extra-core",
+    "autoload": {
+        "psr-4": {
+            "AlexLibs\\": "src/Libs/"
+
+        }
+    },
+    "authors": [
+        {
+            "name": "aleksey34",
+            "email": "olga.vlad@inbox.ru"
+        }
+    ],
+    "require": {
+        "htmlburger/carbon-fields": "^3.6"
+    }
+
+}
